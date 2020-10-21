@@ -1,0 +1,25 @@
+body{
+	background-color: #623de5;
+}
+
+.box{
+	margin-right: auto;
+	margin-left: auto;
+	background-color: rgba(14.5,14.5,14.9,0.4);
+	color: white;
+	text-align: center;
+	border-radius: 25px;
+}
+
+.center{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a:visited{
+	color: white;
+}
+
+a:link{
+	color: white;
+}
